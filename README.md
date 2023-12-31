@@ -41,6 +41,10 @@ python main.py
 ```
 The program will process JPEG files in the program directory, describe the age, gender, emotion, and race of the person in each photograph, and output the results to the terminal. It will also save the results in a CSV file.
 
+
+Furthermore, add any additional JPEG files to the faces_pic folder for testing in the program.
+
+
 ### Example Provided:
 ![DeepFace Scanner photo](https://github.com/AJDevCode/DeepFace-Scanner/assets/67168409/1eacb346-26c4-4d2b-bb07-0e1cf997eef7)
 
