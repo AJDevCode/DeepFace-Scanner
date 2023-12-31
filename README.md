@@ -17,7 +17,7 @@ The DeepFace Scanner is a Python program that utilizes the DeepFace library to e
 ## Prerequisites
 Before you begin, ensure you have the following requirements:
 
-- **Python**: Make sure you have Python installed on your system. You can download it from [python.org](https://www.python.org/).
+- **Python**: Make sure you have **Python** installed on your system. You can download it from [python.org](https://www.python.org/).
 
 - **Libraries**: Install the **DeepFace**, **CV2**, and **Pandas** library using the following commands:
   ```bash
