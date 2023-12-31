@@ -19,7 +19,7 @@ Before you begin, ensure you have the following requirements:
 
 - **Python**: Make sure you have Python installed on your system. You can download it from [python.org](https://www.python.org/).
 
-- **DeepFace Library**: Install the DeepFace, CV2, and Pandas library using the following commands:
+- **Libraries**: Install the **DeepFace**, **CV2**, and **Pandas** library using the following commands:
   ```bash
   pip install deepface
 
