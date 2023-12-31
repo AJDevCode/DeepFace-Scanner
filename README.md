@@ -22,13 +22,11 @@ Before you begin, ensure you have the following requirements:
 - **DeepFace Library**: Install the DeepFace, CV2, and Pandas library using the following commands:
   ```bash
   pip install deepface
-```
-```bash
+
   pip install cv2
-```
-```bash
+
   pip install pandas
-```
+
 ## Installation
 Follow these steps to set up the DeepFace Scanner program:
 
